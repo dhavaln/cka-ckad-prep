@@ -1,5 +1,5 @@
 # Kubernetes Certified Administrator and Developer Prep Notes
-How I prepared for Kubernetes CKA and CKAD Certification Exams.
+How I prepared for Kubernetes ~~CKA~~ and CKAD Certification Exams.
 
 ## Pretext
 I already run and consult multiple environments using AWS ECS and Fargate. It serves the production and eventually I think we all will be either using Containers or Serverless technologies for most of the workloads. My personal interest on Kubernetes grew last year after spending some time with Docker. I work across teams and products, so having a full knowledge of "best" technology makes sense to take better decisions. 
@@ -23,7 +23,23 @@ I took the best decision and I enjoyed every bit of my journey so far.
 ## Videos
 
 Towards the end of my preparation, I did go through both the courses of [Mumshad Mannambeth](https://www.udemy.com/user/mumshad-mannambeth/) on Udemy.com. 
-
 https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/
-
 https://www.udemy.com/course/certified-kubernetes-application-developer/
+
+## Practice 
+
+You will have to practice a lot, or atleast that was the case for me. I am a slow learner, the more I practice the more I learn. Part of my day job requires me to spend time on multiple projects, containers, serverless, micro-services, AWS cloud, in general. 
+
+Minikube is best setup to start with. However I would highly recomment using EKS or GKE to do better practice with varying setup. 
+
+Create some sort of dummy application which can cover most of the Kubernetes primitives, that way you can relate to a real-world application easily. 
+
+## From Borg to Kubernetes 
+https://kubernetes.io/blog/2015/04/borg-predecessor-to-kubernetes/
+> Kubernetes is conceptually derived from Borg, an internal container orchastration system used by Google. It is considered a "simplified" system to manage the most "complicated" environment. 
+
+It will not be easy, but at the same time, you get a chance to learn how complicated systems are managed.
+
+## Exam Updates
+
+*  Cleared CKAD on 30th April, 2020
