@@ -1,4 +1,4 @@
-# Kubernetes Certified Administrator and Developer Prep Notes
+# Certified Kubernetes Administrator and Developer Notes
 How I prepared for Kubernetes ~~CKA~~ and CKAD Certification Exams.
 
 ## Pretext
