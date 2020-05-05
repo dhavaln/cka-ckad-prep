@@ -1,5 +1,5 @@
 # Certified Kubernetes Administrator and Developer Notes
-How I prepared for Kubernetes ~~CKA~~ and CKAD Certification Exams.
+How I prepared for Kubernetes ~~CKA and~~ CKAD Certification Exams.
 
 ## Pretext
 I already run and consult multiple environments using AWS ECS and Fargate. It serves the production and eventually I think we all will be either using Containers or Serverless technologies for most of the workloads. My personal interest on Kubernetes grew last year after spending some time with Docker. I work across teams and products, so having a full knowledge of "best" technology makes sense to take better decisions. 
